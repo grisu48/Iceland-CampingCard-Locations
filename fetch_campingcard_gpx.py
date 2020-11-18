@@ -70,11 +70,10 @@ if __name__ == "__main__" :
 			desc = i['description']
 			cat =i['categories']
 			
-			#print(title,lat,lon,desc, cat)
 			print('    <wpt lat="' + str(lat) + '" lon="' + str(lon) + '">')
 			print('        <name>' + str(title) + '</name>')
-			print('        <desc>' + str(desc) + '</desc>')
-			print('        <url>' + str(url) + '</url>')
+			print('        <desc>' + str(desc).replace('<br/>', ' ') + '</desc>')
+			print('        <link href="%s">%s</link>' % (str(url), str(title)))
 			print('    </wpt>')
 		except Exception as e :
 			sys.stderr.write("Error parsing element " + str(i) + "\n")
