@@ -3,197 +3,197 @@
 	<name>Example gpx</name>
     <wpt lat="64.437577" lon="-21.560068">
         <name>Þórisstaðir</name>
-        <desc>Þórisstöðum<br/>301 Akranes<br/><br/>Open between<br/>1 Apríl - 15 September<br/></desc>
-        <url>https://www.campingcard.is/thorisstadir/</url>
+        <desc>Þórisstöðum 301 Akranes  Open between 1 Apríl - 15 September </desc>
+        <link href="https://www.campingcard.is/thorisstadir/">Website</link>
     </wpt>
     <wpt lat="64.92281" lon="-23.26045">
         <name>Grundarfjörður</name>
-        <desc><br/>350 Grundarfjörður<br/><br/>Open between<br/>1. June - 15. September<br/></desc>
-        <url>https://www.campingcard.is/grundarfjordur/</url>
+        <desc> 350 Grundarfjörður  Open between 1. June - 15. September </desc>
+        <link href="https://www.campingcard.is/grundarfjordur/">Website</link>
     </wpt>
     <wpt lat="64.804719" lon="-23.001162">
         <name>Traðir, á eyrunum</name>
-        <desc>Traðir, Snæfellsnesvegur<br/>356 Snæfellsbær<br/><br/>Open between<br/>15. May–30. September<br/></desc>
-        <url>https://www.campingcard.is/tjaldsvaedid-tradir/</url>
+        <desc>Traðir, Snæfellsnesvegur 356 Snæfellsbær  Open between 15. May–30. September </desc>
+        <link href="https://www.campingcard.is/tjaldsvaedid-tradir/">Website</link>
     </wpt>
     <wpt lat="63.8326002" lon="-20.3927595">
         <name>Hella Gaddstaðaflatir</name>
-        <desc>Gaddstaðaflötum<br/>850 Hella<br/><br/>Open between<br/>15 May - 15 September<br/></desc>
-        <url>https://www.campingcard.is/hella-gaddstadaflatir/</url>
+        <desc>Gaddstaðaflötum 850 Hella  Open between 15 May - 15 September </desc>
+        <link href="https://www.campingcard.is/hella-gaddstadaflatir/">Website</link>
     </wpt>
     <wpt lat="65.9725542" lon="-18.544043">
         <name>Dalvík</name>
-        <desc>Svarfaðarbraut<br/>620 Dalvík<br/><br/>Open between<br/>15 Mai - 15 September<br/></desc>
-        <url>https://www.campingcard.is/dalvik/</url>
+        <desc>Svarfaðarbraut 620 Dalvík  Open between 15 Mai - 15 September </desc>
+        <link href="https://www.campingcard.is/dalvik/">Website</link>
     </wpt>
     <wpt lat="63.9818241" lon="-22.3856354">
         <name>Vogar Vatnsleysuströnd</name>
-        <desc>Hafnargata<br/>190 Vogar<br/><br/>Open between<br/>1. May - 15. September<br/></desc>
-        <url>https://www.campingcard.is/vogar-vatnsleysustrond/</url>
+        <desc>Hafnargata 190 Vogar  Open between 1. May - 15. September </desc>
+        <link href="https://www.campingcard.is/vogar-vatnsleysustrond/">Website</link>
     </wpt>
     <wpt lat="66.4520211" lon="-15.9644089">
         <name>Raufarhöfn</name>
-        <desc>nearby Skólabraut<br/>675 Raufarhöfn<br/><br/>Open between<br/>1. Juni –15. September<br/></desc>
-        <url>https://www.campingcard.is/raufarhofn/</url>
+        <desc>nearby Skólabraut 675 Raufarhöfn  Open between 1. Juni –15. September </desc>
+        <link href="https://www.campingcard.is/raufarhofn/">Website</link>
     </wpt>
     <wpt lat="66.301255" lon="-16.442767">
         <name>Kópasker</name>
-        <desc>Austurtröð 4<br/>670 Kópasker<br/><br/>Open between<br/>1. May - 15. September<br/></desc>
-        <url>https://www.campingcard.is/kopasker/</url>
+        <desc>Austurtröð 4 670 Kópasker  Open between 1. May - 15. September </desc>
+        <link href="https://www.campingcard.is/kopasker/">Website</link>
     </wpt>
     <wpt lat="64.038935" lon="-22.696766">
         <name>SANDGERÐI</name>
-        <desc>Byggðarvegi<br/>245 Sandgerði<br/><br/>Open between<br/>1. April–30. September.<br/></desc>
-        <url>https://www.campingcard.is/sandgerdi/</url>
+        <desc>Byggðarvegi 245 Sandgerði  Open between 1. April–30. September. </desc>
+        <link href="https://www.campingcard.is/sandgerdi/">Website</link>
     </wpt>
     <wpt lat="63.841402" lon="-21.554339">
         <name><span>Closed</span> T-BÆR</name>
-        <desc>T-bær, Selvogi<br/>815 Þorlákshöfn<br/><br/>Open between<br/>15. April –30. September<br/></desc>
-        <url>https://www.campingcard.is/t-baer/</url>
+        <desc>T-bær, Selvogi 815 Þorlákshöfn  Open between 15. April –30. September </desc>
+        <link href="https://www.campingcard.is/t-baer/">Website</link>
     </wpt>
     <wpt lat="63.852875" lon="-21.383638">
         <name>ÞORLÁKSHÖFN</name>
-        <desc>Hafnarberg 41 (by the sports center)<br/>815 Þorlákshöfn<br/><br/>Open between<br/>15. May –1. September<br/></desc>
-        <url>https://www.campingcard.is/thorlakshofn/</url>
+        <desc>Hafnarberg 41 (by the sports center) 815 Þorlákshöfn  Open between 15. May –1. September </desc>
+        <link href="https://www.campingcard.is/thorlakshofn/">Website</link>
     </wpt>
     <wpt lat="63.835315" lon="-21.056631">
         <name>STOKKSEYRI</name>
-        <desc>Sólvellir<br/>825 Stokkseyri<br/><br/>Open between<br/>1. May –1. October<br/></desc>
-        <url>https://www.campingcard.is/stokkseyri/</url>
+        <desc>Sólvellir 825 Stokkseyri  Open between 1. May –1. October </desc>
+        <link href="https://www.campingcard.is/stokkseyri/">Website</link>
     </wpt>
     <wpt lat="64.087282" lon="-20.431266">
         <name>ÁLFASKEIÐ</name>
-        <desc>Syðra Langholti<br/>845 Flúðum<br/><br/>Open between<br/>1. June–1. September<br/></desc>
-        <url>https://www.campingcard.is/alfaskeid/</url>
+        <desc>Syðra Langholti 845 Flúðum  Open between 1. June–1. September </desc>
+        <link href="https://www.campingcard.is/alfaskeid/">Website</link>
     </wpt>
     <wpt lat="63.726933" lon="-19.985665">
         <name>LANGBRÓK</name>
-        <desc>Fljótshlíð<br/>861 Hvolsvöllur<br/><br/>Open between<br/>1. May –1. October<br/></desc>
-        <url>https://www.campingcard.is/langbrok/</url>
+        <desc>Fljótshlíð 861 Hvolsvöllur  Open between 1. May –1. October </desc>
+        <link href="https://www.campingcard.is/langbrok/">Website</link>
     </wpt>
     <wpt lat="63.800155" lon="-18.0847966">
         <name>KLEIFARMÖRK</name>
-        <desc>Kleifar-Mörk<br/>880 Kirkjubæjarklaustur<br/><br/>Open between<br/>1. June –31. August<br/></desc>
-        <url>https://www.campingcard.is/kleifarmork/</url>
+        <desc>Kleifar-Mörk 880 Kirkjubæjarklaustur  Open between 1. June –31. August </desc>
+        <link href="https://www.campingcard.is/kleifarmork/">Website</link>
     </wpt>
     <wpt lat="64.832313" lon="-13.861504">
         <name>STÖÐVARFJÖRÐUR</name>
-        <desc>Fjarðarbraut<br/>755 Stöðvarfirði<br/><br/>Open between<br/>15 May – 15 September<br/></desc>
-        <url>https://www.campingcard.is/stodvarfjordur/</url>
+        <desc>Fjarðarbraut 755 Stöðvarfirði  Open between 15 May – 15 September </desc>
+        <link href="https://www.campingcard.is/stodvarfjordur/">Website</link>
     </wpt>
     <wpt lat="64.936661" lon="-14.036721">
         <name>FÁSKRÚÐSFJÖRÐUR</name>
-        <desc>Óseyri<br/>750 Fáskrúðsfirði<br/><br/>Open between<br/>15 May – 15 September<br/></desc>
-        <url>https://www.campingcard.is/faskrudsfjordur/</url>
+        <desc>Óseyri 750 Fáskrúðsfirði  Open between 15 May – 15 September </desc>
+        <link href="https://www.campingcard.is/faskrudsfjordur/">Website</link>
     </wpt>
     <wpt lat="65.034372" lon="-14.241071">
         <name>REYÐARFJÖRÐUR</name>
-        <desc>Búðareyri<br/>730 Reyðarfirði<br/><br/>Open between<br/>15 April – 15 September<br/></desc>
-        <url>https://www.campingcard.is/reydarfjordur/</url>
+        <desc>Búðareyri 730 Reyðarfirði  Open between 15 April – 15 September </desc>
+        <link href="https://www.campingcard.is/reydarfjordur/">Website</link>
     </wpt>
     <wpt lat="65.1497396" lon="-13.6822644">
         <name>NORÐFJÖRÐUR</name>
-        <desc>Víðimýri<br/>740 Neskaupstað<br/><br/>Open between<br/>15 May – 15 September<br/></desc>
-        <url>https://www.campingcard.is/nordfjordur/</url>
+        <desc>Víðimýri 740 Neskaupstað  Open between 15 May – 15 September </desc>
+        <link href="https://www.campingcard.is/nordfjordur/">Website</link>
     </wpt>
     <wpt lat="65.260433" lon="-14.010626">
         <name>SEYÐISFJÖRÐUR</name>
-        <desc>Ránargata 1<br/>710 Seyðisfjörður<br/><br/>Open between<br/>1. May –30. September<br/></desc>
-        <url>https://www.campingcard.is/seydisfjordur/</url>
+        <desc>Ránargata 1 710 Seyðisfjörður  Open between 1. May –30. September </desc>
+        <link href="https://www.campingcard.is/seydisfjordur/">Website</link>
     </wpt>
     <wpt lat="66.201023" lon="-15.33838">
         <name>ÞÓRSHÖFN</name>
-        <desc>Miðholt<br/>680 Þórshöfn<br/><br/>Open between<br/>1.June –31. August<br/></desc>
-        <url>https://www.campingcard.is/thorshofn/</url>
+        <desc>Miðholt 680 Þórshöfn  Open between 1.June –31. August </desc>
+        <link href="https://www.campingcard.is/thorshofn/">Website</link>
     </wpt>
     <wpt lat="65.374641" lon="-15.884409">
         <name>MÖÐRUDALUR &#8211; FJALLADÝRÐ</name>
-        <desc>Möðrudalur<br/>601 Mývatn<br/><br/>Open between<br/>20. May –10 September<br/></desc>
-        <url>https://www.campingcard.is/fjalladyrd/</url>
+        <desc>Möðrudalur 601 Mývatn  Open between 20. May –10 September </desc>
+        <link href="https://www.campingcard.is/fjalladyrd/">Website</link>
     </wpt>
     <wpt lat="65.88925" lon="-17.320383">
         <name>HEIÐARBÆR</name>
-        <desc>Heiðarbær Reykjahverfi<br/>641 Húsavík<br/><br/>Open between<br/>1. June –15. September<br/></desc>
-        <url>https://www.campingcard.is/heidarbaer/</url>
+        <desc>Heiðarbær Reykjahverfi 641 Húsavík  Open between 1. June –15. September </desc>
+        <link href="https://www.campingcard.is/heidarbaer/">Website</link>
     </wpt>
     <wpt lat="65.6983991" lon="-17.9701233">
         <name>Lónsá</name>
-        <desc>Lónsá<br/>601 Akureyri<br/><br/>Open between<br/>June - 15 September<br/></desc>
-        <url>https://www.campingcard.is/lonsa/</url>
+        <desc>Lónsá 601 Akureyri  Open between June - 15 September </desc>
+        <link href="https://www.campingcard.is/lonsa/">Website</link>
     </wpt>
     <wpt lat="66.071186" lon="-18.648932">
         <name>ÓLAFSFJÖRÐUR</name>
-        <desc>Ólafsvegi 4<br/>625 Ólafsfirði<br/><br/>Open between<br/>12. May –15. October<br/></desc>
-        <url>https://www.campingcard.is/olafsfjordur/</url>
+        <desc>Ólafsvegi 4 625 Ólafsfirði  Open between 12. May –15. October </desc>
+        <link href="https://www.campingcard.is/olafsfjordur/">Website</link>
     </wpt>
     <wpt lat="66.15009" lon="-18.908801">
         <name>SIGLUFJÖRÐUR</name>
-        <desc>Gránugötu 24<br/>580 Siglufjörður<br/><br/>Open between<br/>12. May  – 15 October<br/></desc>
-        <url>https://www.campingcard.is/siglufjordur-2/</url>
+        <desc>Gránugötu 24 580 Siglufjörður  Open between 12. May  – 15 October </desc>
+        <link href="https://www.campingcard.is/siglufjordur-2/">Website</link>
     </wpt>
     <wpt lat="65.748487" lon="-19.647798">
         <name>SAUÐÁRKRÓKUR</name>
-        <desc>Sauðárkrókur<br/>550 Sauðárkróki<br/><br/>Open between<br/>15 May - 15 September<br/></desc>
-        <url>https://www.campingcard.is/saudarkrokur/</url>
+        <desc>Sauðárkrókur 550 Sauðárkróki  Open between 15 May - 15 September </desc>
+        <link href="https://www.campingcard.is/saudarkrokur/">Website</link>
     </wpt>
     <wpt lat="65.824945" lon="-20.294587">
         <name>SKAGASTRÖND</name>
-        <desc>Hólabraut 35<br/>545 Skagaströnd<br/><br/>Open between<br/>1 June – 10 September<br/></desc>
-        <url>https://www.campingcard.is/skagastrond/</url>
+        <desc>Hólabraut 35 545 Skagaströnd  Open between 1 June – 10 September </desc>
+        <link href="https://www.campingcard.is/skagastrond/">Website</link>
     </wpt>
     <wpt lat="65.402297" lon="-20.9295">
         <name>HVAMMSTANGI</name>
-        <desc>Kirkjuhvammur<br/>530 Hvammstangi<br/><br/>Open between<br/>15 May –15 October<br/></desc>
-        <url>https://www.campingcard.is/hvammstangi/</url>
+        <desc>Kirkjuhvammur 530 Hvammstangi  Open between 15 May –15 October </desc>
+        <link href="https://www.campingcard.is/hvammstangi/">Website</link>
     </wpt>
     <wpt lat="65.69167" lon="-21.439256">
         <name>DRANGSNES</name>
-        <desc>Drangsnes<br/>520 Drangsnes<br/><br/>Open between<br/>1 May - 30 September<br/></desc>
-        <url>https://www.campingcard.is/drangsnes/</url>
+        <desc>Drangsnes 520 Drangsnes  Open between 1 May - 30 September </desc>
+        <link href="https://www.campingcard.is/drangsnes/">Website</link>
     </wpt>
     <wpt lat="66.06092" lon="-23.199073">
         <name>TUNGUDALUR</name>
-        <desc>Tungudalur<br/>400 Ísafirði<br/><br/>Open between<br/>15 May - 15 September<br/></desc>
-        <url>https://www.campingcard.is/tungudalur/</url>
+        <desc>Tungudalur 400 Ísafirði  Open between 15 May - 15 September </desc>
+        <link href="https://www.campingcard.is/tungudalur/">Website</link>
     </wpt>
     <wpt lat="66.155042" lon="-23.253304">
         <name>BOLUNGARVÍK</name>
-        <desc>Bolungarvík, by the Swimmingpool<br/>415 Bolungarvík<br/><br/>Open between<br/>1 June –30 September<br/></desc>
-        <url>https://www.campingcard.is/bolungarvik/</url>
+        <desc>Bolungarvík, by the Swimmingpool 415 Bolungarvík  Open between 1 June –30 September </desc>
+        <link href="https://www.campingcard.is/bolungarvik/">Website</link>
     </wpt>
     <wpt lat="65.636543" lon="-23.863202">
         <name>TÁLKNAFJÖRÐUR</name>
-        <desc>Sveinseyri<br/>460 Tálknafjörður<br/><br/>Open between<br/>1 June – 1 September<br/></desc>
-        <url>https://www.campingcard.is/talknafjordur/</url>
+        <desc>Sveinseyri 460 Tálknafjörður  Open between 1 June – 1 September </desc>
+        <link href="https://www.campingcard.is/talknafjordur/">Website</link>
     </wpt>
     <wpt lat="65.577382" lon="-23.172655">
         <name>FLÓKALUNDUR</name>
-        <desc>Vatnsfjörður<br/>451 Patreksfjörður<br/><br/>Open between<br/>1. júní–10. september<br/></desc>
-        <url>https://www.campingcard.is/flokalundur/</url>
+        <desc>Vatnsfjörður 451 Patreksfjörður  Open between 1. júní–10. september </desc>
+        <link href="https://www.campingcard.is/flokalundur/">Website</link>
     </wpt>
     <wpt lat="65.44628" lon="-22.20206">
         <name>TJALDSVÆÐIÐ VIÐ GRETTISLAUG Á REYKHÓLUM</name>
-        <desc>Grettislaug á Reykhólum<br/>380 Reykhólahreppur<br/><br/>Open between<br/>1 May –30 September<br/></desc>
-        <url>https://www.campingcard.is/reykholahreppur/</url>
+        <desc>Grettislaug á Reykhólum 380 Reykhólahreppur  Open between 1 May –30 September </desc>
+        <link href="https://www.campingcard.is/reykholahreppur/">Website</link>
     </wpt>
     <wpt lat="65.246232" lon="-21.804514">
         <name>Laugar</name>
-        <desc>Laugar<br/>371 Búðardalur<br/><br/>Open between<br/>7 June – 25 August<br/></desc>
-        <url>https://www.campingcard.is/laugar/</url>
+        <desc>Laugar 371 Búðardalur  Open between 7 June – 25 August </desc>
+        <link href="https://www.campingcard.is/laugar/">Website</link>
     </wpt>
     <wpt lat="64.687899" lon="-21.588642">
         <name>Varmaland</name>
-        <desc>Varmaland<br/>311 Borgarnes<br/><br/>Open between<br/>1 June - 31 August<br/></desc>
-        <url>https://www.campingcard.is/varmaland/</url>
+        <desc>Varmaland 311 Borgarnes  Open between 1 June - 31 August </desc>
+        <link href="https://www.campingcard.is/varmaland/">Website</link>
     </wpt>
     <wpt lat="64.304558" lon="-20.199866">
         <name>Skjól</name>
-        <desc>Kjóastaðir<br/>801 Geysir<br/><br/>Open between<br/>1 June - 15 September<br/></desc>
-        <url>https://www.campingcard.is/skjol/</url>
+        <desc>Kjóastaðir 801 Geysir  Open between 1 June - 15 September </desc>
+        <link href="https://www.campingcard.is/skjol/">Website</link>
     </wpt>
     <wpt lat="65.0718588" lon="-14.0164948">
         <name>Eskifjörður</name>
-        <desc>Strandgata<br/>735 Eskifjörður<br/><br/>Open between<br/>15 May – 15 September<br/></desc>
-        <url>https://www.campingcard.is/eskifjordur/</url>
+        <desc>Strandgata 735 Eskifjörður  Open between 15 May – 15 September </desc>
+        <link href="https://www.campingcard.is/eskifjordur/">Website</link>
     </wpt>
 </gpx>
